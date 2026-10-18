@@ -1,0 +1,6 @@
+{
+  "name": "CivicSnap",
+  "description": "CivicSnap empowers citizens to snap, report, and track civic issues in their neighborhoods with verified authentication and secure municipal administrative workflows.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
