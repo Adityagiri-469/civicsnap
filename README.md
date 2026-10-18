@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # CivicSnap 
 
@@ -67,3 +68,7 @@ CivicSnap can be deployed using Vercel. Connect your GitHub repository to Vercel
 ## 📄 License
 
 No license has been specified yet.
+=======
+# civicsnap
+CivicSnap is a civic issue reporting platform that helps citizens report local problems like potholes, garbage, and water leaks. Users can track issue status and stay informed about resolutions. Built with React, TypeScript, Vite, and Supabase, CivicSnap promotes community participation and transparency.
+>>>>>>> f0399203e265f62753b0beb62e376f34a882eca3
